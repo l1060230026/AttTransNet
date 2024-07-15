@@ -1,0 +1,14 @@
+ceiling
+floor
+wall
+door
+window
+table
+chair
+cabinet
+shelf
+bin
+box
+board
+screen
+clutter
